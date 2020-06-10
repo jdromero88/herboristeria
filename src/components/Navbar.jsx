@@ -8,21 +8,26 @@ class Navbar extends React.Component {
   render(){
     const { activeItem } = this.state
     return (
-      <Menu>
-        <Menu.Item header>Our Company</Menu.Item>
+      <Menu stackable>
+        <Menu.Item header>Santa Lucia</Menu.Item>
         <Menu.Item
-          name='aboutUs'
-          active={activeItem === 'aboutUs'}
+          name='inicio'
+          active={activeItem === 'inicio'}
           onClick={this.handleItemClick}
         />
         <Menu.Item
-          name='jobs'
-          active={activeItem === 'jobs'}
+          name='nosotros'
+          active={activeItem === 'nosotros'}
           onClick={this.handleItemClick}
         />
         <Menu.Item
-          name='locations'
-          active={activeItem === 'locations'}
+          name='productos'
+          active={activeItem === 'productos'}
+          onClick={this.handleItemClick}
+        />
+        <Menu.Item
+          name='encontranos'
+          active={activeItem === 'encontranos'}
           onClick={this.handleItemClick}
         />
       </Menu>
