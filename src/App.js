@@ -8,7 +8,8 @@ import Footer from './container/Footer'
 function App() {
   return (
     <div className="App">
-    <Header />
+      <Header />
+      <Content />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -23,6 +24,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <Footer />
     </div>
   );
 }
