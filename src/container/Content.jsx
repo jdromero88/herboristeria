@@ -3,7 +3,6 @@ import { Container, Card, Icon, Image } from 'semantic-ui-react'
 const Content = () => {
   return (
       <Container>
-        <p>El contenido va aqui.</p>
         <Card.Group>
           <Card>
             <Image src='/images/avatar/large/matthew.png' wrapped ui={false} />
@@ -112,7 +111,7 @@ const Content = () => {
                 22 Friends
               </a>
             </Card.Content>
-          </Card>          
+          </Card>
         </Card.Group>
       </Container>
   )

@@ -1,5 +1,6 @@
 import React from 'react'
 import { Menu } from "semantic-ui-react"
+import { Link, NavLink } from "react-router-dom"
 
 class Navbar extends React.Component {
   state = {}
@@ -10,6 +11,7 @@ class Navbar extends React.Component {
     return (
       <Menu stackable>
         <Menu.Item header>Santa Lucia</Menu.Item>
+        <NavLink to='/' className='item'>inicio</NavLink>
         <Menu.Item
           name='inicio'
           active={activeItem === 'inicio'}
@@ -20,11 +22,7 @@ class Navbar extends React.Component {
           active={activeItem === 'nosotros'}
           onClick={this.handleItemClick}
         />
-        <Menu.Item
-          name='productos'
-          active={activeItem === 'productos'}
-          onClick={this.handleItemClick}
-        />
+        <NavLink to='/nosotros' className='item'>Nosotros</NavLink>
         <Menu.Item
           name='encontranos'
           active={activeItem === 'encontranos'}
