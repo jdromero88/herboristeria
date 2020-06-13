@@ -10,8 +10,8 @@ class Navbar extends React.Component {
     const { activeItem } = this.state
     return (
       <Menu stackable>
-        <Menu.Item header>Santa Lucia</Menu.Item>
-        <NavLink to='/' className='item'>inicio</NavLink>
+        <Menu.Item header><Link to='/'>Santa Lucia</Link></Menu.Item>
+        <NavLink to='/' className='item'>Inicio</NavLink>
         <NavLink to='/nosotros' className='item'>Nosotros</NavLink>
         <Menu.Item
           name='encontranos'
