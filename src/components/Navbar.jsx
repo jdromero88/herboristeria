@@ -12,16 +12,6 @@ class Navbar extends React.Component {
       <Menu stackable>
         <Menu.Item header>Santa Lucia</Menu.Item>
         <NavLink to='/' className='item'>inicio</NavLink>
-        <Menu.Item
-          name='inicio'
-          active={activeItem === 'inicio'}
-          onClick={this.handleItemClick}
-        />
-        <Menu.Item
-          name='nosotros'
-          active={activeItem === 'nosotros'}
-          onClick={this.handleItemClick}
-        />
         <NavLink to='/nosotros' className='item'>Nosotros</NavLink>
         <Menu.Item
           name='encontranos'
