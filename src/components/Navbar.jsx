@@ -13,6 +13,7 @@ class Navbar extends React.Component {
         <Menu.Item header><Link to='/'>Santa Lucia</Link></Menu.Item>
         <NavLink to='/' className='item'>Inicio</NavLink>
         <NavLink to='/nosotros' className='item'>Nosotros</NavLink>
+        <NavLink to='/productos' className='item'>Productos</NavLink>
         <Menu.Item
           name='encontranos'
           active={activeItem === 'encontranos'}
