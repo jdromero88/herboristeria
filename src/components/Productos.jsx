@@ -1,5 +1,6 @@
 import React from 'react'
 import { Container, Divider, Grid, Card, Image, Icon } from 'semantic-ui-react'
+import producto from '../images/producto.png'
 const Productos = () => {
   return (
       <Container>
@@ -8,7 +9,7 @@ const Productos = () => {
             <Grid.Column width={16}>
               <Card.Group fluid='true' centered>
                 <Card>
-                  <Image src='/images/avatar/large/matthew.png' wrapped ui={false} />
+                  <Image src={producto} wrapped ui={false} />
                   <Card.Content>
                     <Card.Header>Matthew</Card.Header>
                     <Card.Meta>
@@ -26,7 +27,7 @@ const Productos = () => {
                   </Card.Content>
                 </Card>
                 <Card>
-                  <Image src='/images/avatar/large/matthew.png' wrapped ui={false} />
+                  <Image src={producto} wrapped ui={false} />
                   <Card.Content>
                     <Card.Header>Matthew</Card.Header>
                     <Card.Meta>
@@ -44,7 +45,7 @@ const Productos = () => {
                   </Card.Content>
                 </Card>
                 <Card>
-                  <Image src='/images/avatar/large/matthew.png' wrapped ui={false} />
+                  <Image src={producto} wrapped ui={false} />
                   <Card.Content>
                     <Card.Header>Matthew</Card.Header>
                     <Card.Meta>
@@ -62,7 +63,7 @@ const Productos = () => {
                   </Card.Content>
                 </Card>
                 <Card>
-                  <Image src='/images/avatar/large/matthew.png' wrapped ui={false} />
+                  <Image src={producto} wrapped ui={false} />
                   <Card.Content>
                     <Card.Header>Matthew</Card.Header>
                     <Card.Meta>
@@ -80,7 +81,7 @@ const Productos = () => {
                   </Card.Content>
                 </Card>
                 <Card>
-                  <Image src='/images/avatar/large/matthew.png' wrapped ui={false} />
+                  <Image src={producto} wrapped ui={false} />
                   <Card.Content>
                     <Card.Header>Matthew</Card.Header>
                     <Card.Meta>
@@ -98,7 +99,7 @@ const Productos = () => {
                   </Card.Content>
                 </Card>
                 <Card>
-                  <Image src='/images/avatar/large/matthew.png' wrapped ui={false} />
+                  <Image src={producto} wrapped ui={false} />
                   <Card.Content>
                     <Card.Header>Matthew</Card.Header>
                     <Card.Meta>
@@ -116,7 +117,7 @@ const Productos = () => {
                   </Card.Content>
                 </Card>
                 <Card>
-                  <Image src='/images/avatar/large/matthew.png' wrapped ui={false} />
+                  <Image src={producto} wrapped ui={false} />
                   <Card.Content>
                     <Card.Header>Matthew</Card.Header>
                     <Card.Meta>
@@ -134,7 +135,7 @@ const Productos = () => {
                   </Card.Content>
                 </Card>
                 <Card>
-                  <Image src='/images/avatar/large/matthew.png' wrapped ui={false} />
+                  <Image src={producto} wrapped ui={false} />
                   <Card.Content>
                     <Card.Header>Matthew</Card.Header>
                     <Card.Meta>
@@ -152,7 +153,7 @@ const Productos = () => {
                   </Card.Content>
                 </Card>
                 <Card>
-                  <Image src='/images/avatar/large/matthew.png' wrapped ui={false} />
+                  <Image src={producto} wrapped ui={false} />
                   <Card.Content>
                     <Card.Header>Matthew</Card.Header>
                     <Card.Meta>
@@ -168,7 +169,7 @@ const Productos = () => {
                       22 Friends
                     </a>
                   </Card.Content>
-                </Card>                                                                                                                                
+                </Card>
               </Card.Group>
             </Grid.Column>
           </Grid.Row>
