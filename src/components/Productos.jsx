@@ -11,162 +11,162 @@ const Productos = () => {
                 <Card>
                   <Image src={producto} wrapped ui={false} />
                   <Card.Content>
-                    <Card.Header>Matthew</Card.Header>
+                    <Card.Header>Nombre del Producto</Card.Header>
                     <Card.Meta>
-                      <span className='date'>Joined in 2015</span>
+                      <span className='tag'>Clasico</span>
                     </Card.Meta>
                     <Card.Description>
-                      Matthew is a musician living in Nashville.
+                      Descripcion del Producto
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
                     <a>
-                      <Icon name='user' />
-                      22 Friends
+                      <Icon name='dollar' />
+                      10.000
                     </a>
                   </Card.Content>
                 </Card>
                 <Card>
                   <Image src={producto} wrapped ui={false} />
                   <Card.Content>
-                    <Card.Header>Matthew</Card.Header>
+                    <Card.Header>Nombre del Producto</Card.Header>
                     <Card.Meta>
-                      <span className='date'>Joined in 2015</span>
+                      <span className='tag'>Clasico</span>
                     </Card.Meta>
                     <Card.Description>
-                      Matthew is a musician living in Nashville.
+                      Descripcion del Producto
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
                     <a>
-                      <Icon name='user' />
-                      22 Friends
+                      <Icon name='dollar' />
+                      10.000
                     </a>
                   </Card.Content>
                 </Card>
                 <Card>
                   <Image src={producto} wrapped ui={false} />
                   <Card.Content>
-                    <Card.Header>Matthew</Card.Header>
+                    <Card.Header>Nombre del Producto</Card.Header>
                     <Card.Meta>
-                      <span className='date'>Joined in 2015</span>
+                      <span className='tag'>Clasico</span>
                     </Card.Meta>
                     <Card.Description>
-                      Matthew is a musician living in Nashville.
+                      Descripcion del Producto
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
                     <a>
-                      <Icon name='user' />
-                      22 Friends
+                      <Icon name='dollar' />
+                      10.000
                     </a>
                   </Card.Content>
                 </Card>
                 <Card>
                   <Image src={producto} wrapped ui={false} />
                   <Card.Content>
-                    <Card.Header>Matthew</Card.Header>
+                    <Card.Header>Nombre del Producto</Card.Header>
                     <Card.Meta>
-                      <span className='date'>Joined in 2015</span>
+                      <span className='tag'>Clasico</span>
                     </Card.Meta>
                     <Card.Description>
-                      Matthew is a musician living in Nashville.
+                      Descripcion del Producto
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
                     <a>
-                      <Icon name='user' />
-                      22 Friends
+                      <Icon name='dollar' />
+                      10.000
                     </a>
                   </Card.Content>
                 </Card>
                 <Card>
                   <Image src={producto} wrapped ui={false} />
                   <Card.Content>
-                    <Card.Header>Matthew</Card.Header>
+                    <Card.Header>Nombre del Producto</Card.Header>
                     <Card.Meta>
-                      <span className='date'>Joined in 2015</span>
+                      <span className='tag'>Clasico</span>
                     </Card.Meta>
                     <Card.Description>
-                      Matthew is a musician living in Nashville.
+                      Descripcion del Producto
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
                     <a>
-                      <Icon name='user' />
-                      22 Friends
+                      <Icon name='dollar' />
+                      10.000
                     </a>
                   </Card.Content>
                 </Card>
                 <Card>
                   <Image src={producto} wrapped ui={false} />
                   <Card.Content>
-                    <Card.Header>Matthew</Card.Header>
+                    <Card.Header>Nombre del Producto</Card.Header>
                     <Card.Meta>
-                      <span className='date'>Joined in 2015</span>
+                      <span className='tag'>Clasico</span>
                     </Card.Meta>
                     <Card.Description>
-                      Matthew is a musician living in Nashville.
+                      Descripcion del Producto
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
                     <a>
-                      <Icon name='user' />
-                      22 Friends
+                      <Icon name='dollar' />
+                      10.000
                     </a>
                   </Card.Content>
                 </Card>
                 <Card>
                   <Image src={producto} wrapped ui={false} />
                   <Card.Content>
-                    <Card.Header>Matthew</Card.Header>
+                    <Card.Header>Nombre del Producto</Card.Header>
                     <Card.Meta>
-                      <span className='date'>Joined in 2015</span>
+                      <span className='tag'>Clasico</span>
                     </Card.Meta>
                     <Card.Description>
-                      Matthew is a musician living in Nashville.
+                      Descripcion del Producto
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
                     <a>
-                      <Icon name='user' />
-                      22 Friends
+                      <Icon name='dollar' />
+                      10.000
                     </a>
                   </Card.Content>
                 </Card>
                 <Card>
                   <Image src={producto} wrapped ui={false} />
                   <Card.Content>
-                    <Card.Header>Matthew</Card.Header>
+                    <Card.Header>Nombre del Producto</Card.Header>
                     <Card.Meta>
-                      <span className='date'>Joined in 2015</span>
+                      <span className='tag'>Clasico</span>
                     </Card.Meta>
                     <Card.Description>
-                      Matthew is a musician living in Nashville.
+                      Descripcion del Producto
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
                     <a>
-                      <Icon name='user' />
-                      22 Friends
+                      <Icon name='dollar' />
+                      10.000
                     </a>
                   </Card.Content>
                 </Card>
                 <Card>
                   <Image src={producto} wrapped ui={false} />
                   <Card.Content>
-                    <Card.Header>Matthew</Card.Header>
+                    <Card.Header>Nombre del Producto</Card.Header>
                     <Card.Meta>
-                      <span className='date'>Joined in 2015</span>
+                      <span className='tag'>Clasico</span>
                     </Card.Meta>
                     <Card.Description>
-                      Matthew is a musician living in Nashville.
+                      Descripcion del Producto
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
                     <a>
-                      <Icon name='user' />
-                      22 Friends
+                      <Icon name='dollar' />
+                      10.000
                     </a>
                   </Card.Content>
                 </Card>
