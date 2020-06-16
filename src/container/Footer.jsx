@@ -5,7 +5,7 @@ const Footer = () => {
   return(
     <Container>
       <Divider />
-      <Segment textAlign='center'>
+      <Segment textAlign='center' color='teal' inverted>
         <p>Santa Lucia © 2020</p>
       </Segment>
     </Container>
