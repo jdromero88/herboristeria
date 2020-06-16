@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container, Divider, Grid, Card, Image, Icon } from 'semantic-ui-react'
+import { Container, Grid, Card, Image, Icon } from 'semantic-ui-react'
 import producto from '../images/producto.png'
 const Productos = () => {
   return (
@@ -20,10 +20,10 @@ const Productos = () => {
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
-                    <a>
+                    <span>
                       <Icon name='dollar' />
                       10.000
-                    </a>
+                    </span>
                   </Card.Content>
                 </Card>
                 <Card>
@@ -38,10 +38,10 @@ const Productos = () => {
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
-                    <a>
+                    <span>
                       <Icon name='dollar' />
                       10.000
-                    </a>
+                    </span>
                   </Card.Content>
                 </Card>
                 <Card>
@@ -56,10 +56,10 @@ const Productos = () => {
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
-                    <a>
+                    <span>
                       <Icon name='dollar' />
                       10.000
-                    </a>
+                    </span>
                   </Card.Content>
                 </Card>
                 <Card>
@@ -74,10 +74,10 @@ const Productos = () => {
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
-                    <a>
+                    <span>
                       <Icon name='dollar' />
                       10.000
-                    </a>
+                    </span>
                   </Card.Content>
                 </Card>
                 <Card>
@@ -92,10 +92,10 @@ const Productos = () => {
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
-                    <a>
+                    <span>
                       <Icon name='dollar' />
                       10.000
-                    </a>
+                    </span>
                   </Card.Content>
                 </Card>
                 <Card>
@@ -110,10 +110,10 @@ const Productos = () => {
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
-                    <a>
+                    <span>
                       <Icon name='dollar' />
                       10.000
-                    </a>
+                    </span>
                   </Card.Content>
                 </Card>
                 <Card>
@@ -128,10 +128,10 @@ const Productos = () => {
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
-                    <a>
+                    <span>
                       <Icon name='dollar' />
                       10.000
-                    </a>
+                    </span>
                   </Card.Content>
                 </Card>
                 <Card>
@@ -146,10 +146,10 @@ const Productos = () => {
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
-                    <a>
+                    <span>
                       <Icon name='dollar' />
                       10.000
-                    </a>
+                    </span>
                   </Card.Content>
                 </Card>
                 <Card>
@@ -164,10 +164,10 @@ const Productos = () => {
                     </Card.Description>
                   </Card.Content>
                   <Card.Content extra>
-                    <a>
+                    <span>
                       <Icon name='dollar' />
                       10.000
-                    </a>
+                    </span>
                   </Card.Content>
                 </Card>
               </Card.Group>
